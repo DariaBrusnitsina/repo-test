@@ -1,3 +1,8 @@
+---
+title: Demo Documentation Repository
+order: 8
+---
+
 # Demo Documentation Repository
 
 Демонстрационный репозиторий для хранения документации системного аналитика.
